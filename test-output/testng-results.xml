@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-09T12:57:22 IST" name="Default suite" finished-at="2024-08-09T12:57:35 IST" duration-ms="12713">
+    <groups>
+    </groups>
+    <test started-at="2024-08-09T12:57:22 IST" name="Default test" finished-at="2024-08-09T12:57:35 IST" duration-ms="12713">
+      <class name="Practice.Testautomation.Loginpage">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:22 IST" name="beforeTest" finished-at="2024-08-09T12:57:30 IST" duration-ms="7864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:30 IST" name="setUp" finished-at="2024-08-09T12:57:31 IST" duration-ms="273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyurl()[pri:1, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:31 IST" name="verifyurl" finished-at="2024-08-09T12:57:31 IST" duration-ms="518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyurl -->
+        <test-method signature="validlogin()[pri:2, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:31 IST" name="validlogin" finished-at="2024-08-09T12:57:32 IST" duration-ms="1067" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validlogin -->
+        <test-method signature="invalidusername()[pri:3, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:32 IST" name="invalidusername" finished-at="2024-08-09T12:57:33 IST" duration-ms="807" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidusername -->
+        <test-method signature="invalidpassword()[pri:4, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:33 IST" name="invalidpassword" finished-at="2024-08-09T12:57:34 IST" duration-ms="781" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidpassword -->
+        <test-method signature="invalidusernameandpassword()[pri:5, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:34 IST" name="invalidusernameandpassword" finished-at="2024-08-09T12:57:35 IST" duration-ms="847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidusernameandpassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:35 IST" name="tearDown" finished-at="2024-08-09T12:57:35 IST" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:Practice.Testautomation.Loginpage@7ce69770]" started-at="2024-08-09T12:57:35 IST" name="afterTest" finished-at="2024-08-09T12:57:35 IST" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- Practice.Testautomation.Loginpage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
